@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-:root{
-    color: #1e1e1e;
+p {
+    color: #5c5c5c;
+}
+
+h1, h2, h3, span {
+    color: #333333;
 }
